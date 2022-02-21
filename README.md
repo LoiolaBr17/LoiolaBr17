@@ -5,7 +5,7 @@
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=LoiolaBr17&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoiolaBr17)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoiolaBr17)](https://github.com/LoiolaBr17/github-readme-stats)
 
 ## Tecnologias que utilizo no meu dia
 
